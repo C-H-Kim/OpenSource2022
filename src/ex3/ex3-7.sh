@@ -14,3 +14,4 @@ then
 		cd "../"
 	done
 fi
+exit 0

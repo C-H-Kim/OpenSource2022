@@ -9,3 +9,4 @@ name=$1
 number=$2
 
 echo "$name $number" >> $file
+exit 0

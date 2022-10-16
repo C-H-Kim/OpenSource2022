@@ -18,3 +18,4 @@ then
 	tar -xf $1.tar
 	ls -1 *.txt
 fi
+exit 0
